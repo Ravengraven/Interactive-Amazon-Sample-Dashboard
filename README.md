@@ -17,8 +17,10 @@ Tableau Desktop for interactive visualization.
 ### Features
 1. Time-Based Insights
 Sales and Profit Trends: A dynamic line chart visually represents sales and profit trends over time. Users can explore and analyze the ebb and flow of sales and profitability.
+
 2. Category Analysis
 Treemap for Sales by Category: An interactive treemap provides insights into sales distribution across different product categories. Users can delve into specific categories for a more granular analysis.
+
 3. Product Profitability
 Histogram for Top 10 Products by Profit: A histogram showcases the top 10 products based on profitability. Users can identify the most lucrative products and gain insights into their contribution to overall profits.
 
